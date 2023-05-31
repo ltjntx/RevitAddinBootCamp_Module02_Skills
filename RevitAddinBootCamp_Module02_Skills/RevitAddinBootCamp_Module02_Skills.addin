@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RevitAddinBootCamp_Module02_Skills - Command 1</Text>
+    <Description>Some description for RevitAddinBootCamp_Module02_Skills</Description>
+    <Assembly>RevitAddinBootCamp_Module02_Skills.dll</Assembly>
+    <FullClassName>RevitAddinBootCamp_Module02_Skills.Command1</FullClassName>
+    <ClientId>804d757e-04e3-4869-8b6b-487c8f3603b6</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RevitAddinBootCamp_Module02_Skills - Command 2</Text>
+    <Description>Some description for RevitAddinBootCamp_Module02_Skills</Description>
+    <Assembly>RevitAddinBootCamp_Module02_Skills.dll</Assembly>
+    <FullClassName>RevitAddinBootCamp_Module02_Skills.Command2</FullClassName>
+    <ClientId>f5ff2cdd-5f8b-434e-b48f-89b5ce529b36</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+	<AddIn Type="Command">
+		<Text>RevitAddinBootCamp_Module02_Skills - Module02Challenge</Text>
+		<Description>Some description for RevitAddinBootCamp_Module02_Skills</Description>
+		<Assembly>RevitAddinBootCamp_Module02_Skills.dll</Assembly>
+		<FullClassName>RevitAddinBootCamp_Module02_Skills.Module02Challenge</FullClassName>
+		<ClientId>21FA231A-CB02-4744-A9BA-6EA7A64DF29A</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+  <AddIn Type="Application">
+    <Name>RevitAddinBootCamp_Module02_Skills</Name>
+    <Assembly>RevitAddinBootCamp_Module02_Skills.dll</Assembly>
+    <FullClassName>RevitAddinBootCamp_Module02_Skills.App</FullClassName>
+    <ClientId>1ffe4c3d-a4cd-4879-a557-3d646563e865</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
